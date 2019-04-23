@@ -1,5 +1,6 @@
 def my_collect(info)
 i = 0
 collection = []
- info
+ while 
+i =+ 1
 end
