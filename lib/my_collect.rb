@@ -6,7 +6,7 @@ while i < collection.length do
     yield (info)
   i =+ 1
   end
-    yield collection
+   collection
 end
 
 
