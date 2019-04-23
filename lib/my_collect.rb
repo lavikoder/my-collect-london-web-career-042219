@@ -5,5 +5,5 @@ collection = []
   i < collection.length
   i =+ 1
   end
-  yield collection
+    yield collection
 end
