@@ -2,7 +2,6 @@ def my_collect(info)
 i = 0
 collection = []
   while 
-  #condition set in argument
-  #return value needed
+  i < collection.length
 i =+ 1
 end
