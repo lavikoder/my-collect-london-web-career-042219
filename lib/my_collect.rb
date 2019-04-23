@@ -1,10 +1,12 @@
 def my_collect(info)
 if block_given?
 collection = []
-  while 
-  i == 0
-    i < collection.length
+i = 0
+while i < collection.length do
+    yield (info)
   i =+ 1
   end
     yield collection
 end
+
+
