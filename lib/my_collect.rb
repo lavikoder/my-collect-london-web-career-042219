@@ -1,7 +1,7 @@
 def my_collect(info)
-i = 0
 collection = []
   while 
+  i = 0
   i < collection.length
   i =+ 1
   end
