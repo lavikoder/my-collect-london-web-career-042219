@@ -3,5 +3,6 @@ i = 0
 collection = []
   while 
   i < collection.length
-i =+ 1
+    i =+ 1
+  end
 end
