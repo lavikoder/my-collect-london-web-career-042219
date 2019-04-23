@@ -1,4 +1,5 @@
 def my_collect(info)
+if block_given?
 collection = []
   while 
   i == 0
